@@ -16,7 +16,7 @@ export const GlobalStyle = createGlobalStyle`
 
     body {
        
-         background-color: #C9C9C9;
+        //background-color: #C9C9C9;
         -webkit-font-smoothing: antialgit iased;
     }
 

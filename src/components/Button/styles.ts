@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import styled, {css} from 'styled-components'
+import { defaultTheme } from '../../styles/themes/default'
 
 export type ButtonVariant = 'primary' | 'secondary' | 'tertiary'
 
@@ -7,11 +8,10 @@ interface ButtonContainerProps {
     variant: ButtonVariant
 }
 
-
 const buttonVariants = {
-    primary: '#FF5935',
-    secondary: '#00D6B0',
-    tertiary: '#534EE1',
+    primary: defaultTheme.primary,
+    secondary: defaultTheme.secondary,
+    tertiary: defaultTheme.tertiary,
     
 }
 
@@ -40,7 +40,7 @@ export const ButtonContainer = styled.button<ButtonContainerProps>`
 
   font-size: 1.5rem;
   font-weight: bold;
-
+  font-family: ${props => props.theme.SuisseIntlBookOtf};
   color: ${props => props.theme.mainText};
 
   display: flex;

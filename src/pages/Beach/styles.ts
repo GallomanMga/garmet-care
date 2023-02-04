@@ -33,3 +33,16 @@ export const TopicsWrapper = styled.div`
     gap: 1rem;
  
 `
+
+
+export const Alert = styled.div`
+    display: flex;
+    border: 1px solid;
+    border-color: ${props => props.theme.mainText};
+    padding:1rem;
+    margin: 0.5rem;
+   font-family: ${props => props.theme.SuisseIntlBook};
+
+    align-items: center;
+    justify-content: center
+`

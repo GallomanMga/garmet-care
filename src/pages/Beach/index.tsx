@@ -1,7 +1,7 @@
 import { GarmetCare } from "../../components/GarmetCare";
 import { Header } from "../../components/Header";
 import { TagButton } from "../../components/TagButton";
-import { Container, Span, Topics, TopicsWrapper } from "./styles";
+import { Alert, Container, Span, Topics, TopicsWrapper } from "./styles";
 import {motion } from 'framer-motion'
 
 
@@ -84,7 +84,7 @@ export function Beach(){
                     <GarmetCare icon={imgLavagemNormal} title="Modo de lavagem normal em máquina doméstica" />
                     <GarmetCare icon={imgLavagemSuave} title="Modo de lavagem suave em máquina doméstica" />
                     <GarmetCare icon={imgLavagemMuitoSuave} title="Modo de lavagem muito suave em máquina doméstica" />
-
+                    <Alert>Atenção sempre a temperatura máxima de lavagem indicada na peça</Alert>
                     <GarmetCare icon={imgLavarComMaos} title="Lavar exclusivamente à mão, temperatura máxima de lavagem 40°C " />
                     <GarmetCare icon={imgNaoLavarComAgua} title="Não lavar com água" />
                

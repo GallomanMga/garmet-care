@@ -1,4 +1,5 @@
 import styled, {css} from 'styled-components'
+import { defaultTheme } from '../../styles/themes/default'
 
 export type HeaderVariant = 'main' | 'primary' | 'secondary' | 'tertiary'
 
@@ -7,18 +8,18 @@ interface HeaderContainerProps {
 }
 
 const headerVariants = {
-    main: '#C9C9C9',
-    primary: '#FF5935',
-    secondary: '#00D6B0',
-    tertiary: '#534EE1'
+    main: defaultTheme.mainbackground,
+    primary: defaultTheme.primary,
+    secondary: defaultTheme.secondary,
+    tertiary: defaultTheme.tertiary
 }
 
 export const Container = styled.header<HeaderContainerProps>`
     display: flex;
     
-
     align-items: center;
     justify-content: center;
+    padding: 30px;
  
     ${props => {
     return css

@@ -7,6 +7,14 @@ export const defaultTheme = {
     mainbackground: '#C9C9C9',
 
     mainText: '#FBFEFD',
-    secondarybackground: '#FFF'
+    secondarybackground: '#FFF',
+
+    PanoBoldItalic: 'Pano-Bold-Italic',
+    PanoBold:'Pano-Bold',
+    PanoLightItalic: 'Pano-Light-Italic',
+    SuisseIntlBookOtf: 'SuisseIntl-Book-Otf',
+    SuisseIntlBook: 'SuisseIntl-Book',
+    SuisseIntlSemiBold: 'SuisseIntl-SemiBold',
+    
 
 }

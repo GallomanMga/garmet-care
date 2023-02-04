@@ -15,18 +15,18 @@ export function Home(){
             <Container>
                 <Button 
                     to="/Fitness"
-                    title="FITNESS"
+                    title="Fitness"
                     variant="primary"
                 />
                 <Button 
                     to="/Beach"
-                    title="BEACH"
+                    title="Beach"
                     variant="secondary"
                 />
                 <Button 
                     to="/Kids"
                     //icon={imgLogo1}
-                    title="KIDS"
+                    title="Kids"
                     variant="tertiary"
                 />
                
