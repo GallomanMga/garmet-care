@@ -1,0 +1,57 @@
+{
+    "translation": {
+        "language": "pt-BR",
+        "Clique no Modelo": "Clique no Modelo",
+
+        "Lavar separadamente": "Lavar separadamente",
+        "Não deixar de molho": "Não deixar de molho",
+        "Retirar todo excesso de água": "Retirar todo excesso de água",
+        "Armazenar longe do alcance da luz": "Armazenar longe do alcance da luz",
+        "Evitar contato com umidade": "Evitar contato com umidade",
+        "Evite misturar com peças claras": "Evite misturar com peças claras",
+        "Lavar imediatamente após o uso com água abundante": "Lavar imediatamente após o uso com água abundante",
+        "Evitar expor em superfícies pontuagudas ou ásperas": "Evitar expor em superfícies pontuagudas ou ásperas",
+
+
+        "ENTENDA A SUA ETIQUETA": "ENTENDA A SUA ETIQUETA",
+
+        "Lavagem": "LAVAGEM",
+        "Modo de lavagem normal em máquina doméstica": "Modo de lavagem normal em máquina doméstica",
+        "Modo de lavagem suave em máquina doméstica": "Modo de lavagem suave em máquina doméstica",
+        "Modo de lavagem muito suave em máquina doméstica": "Modo de lavagem muito suave em máquina doméstica",
+
+        "Atenção sempre a temperatura máxima de lavagem indicada na peça": "Atenção sempre a temperatura máxima de lavagem indicada na peça",
+
+        "Lavar exclusivamente à mão, temperatura máxima de lavagem 40°C " : "Lavar exclusivamente à mão, temperatura máxima de lavagem 40°C ",
+        "Não lavar com água" : "Não lavar com água", 
+
+        "ALVEJAMENTO": "ALVEJAMENTO",
+        "Permite o uso de qualquer tipo de alvejante, mesmo os clorados": "Permite o uso de qualquer tipo de alvejante, mesmo os clorados",
+        "Não permite o uso de alvejante clorado": "Não permite o uso de alvejante clorado",
+        "Não permite o uso de nenhum tipo de alvejante": "Não permite o uso de nenhum tipo de alvejante",
+
+        "PASSADORIA": "PASSADORIA",
+        "Passar em temperatura máxima de 200°C": "Passar em temperatura máxima de 200°C",
+        "Passar em temperatura máxima de 150°C": "Passar em temperatura máxima de 150°C",
+        "Passar em temperatura máxima de 110°C": "Passar em temperatura máxima de 110°C",
+        "Não passar ferro": "Não passar ferro",
+
+        "SECAGEM": "SECAGEM",
+        "Secar à máquina em temperatura normal": "Secar à máquina em temperatura normal",
+        "Secar à máquina em temperatura baixa": "Secar à máquina em temperatura baixa",
+        "Não secar à máquina": "Não secar à máquina",
+        "Secar em varal": "Secar em varal",
+        "Secar pendurado sem escorrer": "Secar pendurado sem escorrer",
+        "Secar estendido horizontalmente": "Secar estendido horizontalmente",
+        "Secar à sombra": "Secar à sombra",
+
+        "LIMPEZA PROFISSIONAL": "LIMPEZA PROFISSIONAL",
+        "As letras dentro do circulo indicam o tipo de limpeza profissional (seca ou úmida) e de solvente adequado a cada peça":
+        "As letras dentro do circulo indicam o tipo de limpeza profissional (seca ou úmida) e de solvente adequado a cada peça",
+        "As letras abaixo do círculo (ou a falta dela), indica o processo de limpeza profissional: normal, suave ou muito suave":
+        "As letras abaixo do círculo (ou a falta dela), indica o processo de limpeza profissional: normal, suave ou muito suave",
+        "Não lavar à seco":"Não lavar à seco"
+        
+
+    }
+}

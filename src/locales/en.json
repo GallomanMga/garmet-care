@@ -1,0 +1,55 @@
+{
+    "translation": {
+        "language": "en-US",
+        "Clique no Modelo": "Select your Model",
+
+        "Lavar separadamente": "Wash separately",
+        "Não deixar de molho": "Do not soak",
+        "Retirar todo excesso de água": "Remove all excess water",
+        "Armazenar longe do alcance da luz": "Store away from direct light",
+        "Evitar contato com umidade": "Avoid contact with moisture",
+        "Evite misturar com peças claras": "Avoid mixing with light-colored items",
+        "Lavar imediatamente após o uso com água abundante": "Wash immediately after use with plenty of water",
+        "Evitar expor em superfícies pontiagudas ou ásperas": "Avoid exposing to sharp or rough surfaces",
+
+
+
+        "ENTENDA A SUA ETIQUETA": "HOW TO READ YOUR LAUNDRY SYMBOLS",
+        "Lavagem": "WASHING",
+        "Modo de lavagem normal em máquina doméstica": "Normal washing mode in domestic machine",
+        "Modo de lavagem suave em máquina doméstica": "Gentle machine wash mode in domestic machine",
+        "Modo de lavagem muito suave em máquina doméstica": "Very gentle washing mode in domestic machine",
+
+        "Atenção sempre a temperatura máxima de lavagem indicada na peça": "Always pay attention to the maximum washing temperature indicated on the garment.",
+
+        "Lavar exclusivamente à mão, temperatura máxima de lavagem 40°C ": "Hand wash only, maximum washing temperature 40°C",
+        "Não lavar com água": "Do not wash with water",
+
+        "ALVEJAMENTO": "BLEACHING",
+        "Permite o uso de qualquer tipo de alvejante, mesmo os clorados": "Allows the use of any type of bleach, even chlorinated ones",
+        "Não permite o uso de alvejante clorado": "Does not allow the use of chlorinated bleach",
+        "Não permite o uso de nenhum tipo de alvejante": "Does not allow the use of any type of bleach",
+
+        "PASSADORIA": "IRONING",
+        "Passar em temperatura máxima de 200°C": "Iron at a maximum temperature of 200°C",
+        "Passar em temperatura máxima de 150°C": "Iron at a maximum temperature of 150°C",
+        "Passar em temperatura máxima de 110°C": "Iron at a maximum temperature of 110°C",
+        "Não passar ferro": "do not iron",
+
+        "SECAGEM": "DRYING",
+        "Secar à máquina em temperatura normal": "Tumble dry at normal temperature",
+        "Secar à máquina em temperatura baixa": "Tumble dry low heat",
+        "Não secar à máquina": "Do not tumble dry",
+        "Secar em varal": "line dry",
+        "Secar pendurado sem escorrer": "Hang dry without dripping",
+        "Secar estendido horizontalmente": "Dry flat horizontally",
+        "Secar à sombra": "Dry in the shade",
+
+        "LIMPEZA PROFISSIONAL": "PROFESSIONAL LAUNDRY",
+        "As letras dentro do circulo indicam o tipo de limpeza profissional (seca ou úmida) e de solvente adequado a cada peça":
+        "The letter inside the circle indicates the type of professional washing (dry or wet) and the appropriate solvent for each piece",
+        "As letras abaixo do círculo (ou a falta dela), indica o processo de limpeza profissional: normal, suave ou muito suave":
+        "The lines below the circle (or lack thereof) indicate the professional cleaning process: normal, gentle, or very gentle.",
+        "Não lavar à seco":"Do not dry clean"
+    }
+}

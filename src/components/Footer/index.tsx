@@ -1,3 +1,4 @@
+import { t } from "i18next";
 import { ClickAnimation } from "../LottieAnimation/ClickAnimation";
 import { Container } from "./styles";
 
@@ -10,10 +11,8 @@ export function Footer() {
             transition={{ duration: 0.75, ease: 'easeOut', delay: 0.2 }}
         >
             <ClickAnimation />
-            Clique no Modelo 
+            {t('Clique no Modelo')}
         </Container>
-        
-  
         </>
         
     )
