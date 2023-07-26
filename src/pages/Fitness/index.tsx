@@ -72,7 +72,7 @@ export function Fitness(){
                         initial={{opacity: 0}}
                         animate={{opacity: 1}}
                         transition={{ duration: 0.75, ease: 'easeOut', delay: 0.2 }}
-                    >{t("Evite misturar com peças clara")}</Topics>
+                    >{t("Evite misturar com peças claras")}</Topics>
                     <Topics
                         initial={{opacity: 0}}
                         animate={{opacity: 1}}
